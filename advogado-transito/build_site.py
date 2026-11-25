@@ -2,7 +2,7 @@ import json, re, html, urllib.parse, os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # ======= DADOS DO CLIENTE (editar aqui) =======
-BASE  = 'https://lp.mariojunioradvocacia.com.br/advogado-de-transito/'
+BASE  = 'https://lp.mariojunioradvocacia.com.br/advogado-transito/'
 PHONE = '5534984248990'   # WhatsApp do Mário — (34) 98424-8990
 MSG   = 'Olá! Vim pelo site e gostaria de falar com o advogado especialista em trânsito.'
 # ==============================================
